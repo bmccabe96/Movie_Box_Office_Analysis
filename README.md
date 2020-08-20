@@ -31,7 +31,8 @@ For this project, we analyze movie data we gathered on the web to present to Mic
 
 ## Analysis and Recommendations
 #### Revenues and Theaters Correlation
-![Alt text](/Movie_Box_Office_Analysis/Screenshots/Gross_Theaters_Heatmap.png?raw=true "Optional Title")
+![Image](../Movie_Box_Office_Analysis/Screenshots/Gross_Theaters_Heatmap.png?raw=true)
+
 #### Genres to Gross Revenue Analysis
 
 #### Runtime and Rating Analysis
