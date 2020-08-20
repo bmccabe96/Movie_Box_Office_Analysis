@@ -33,7 +33,7 @@ For this project, we analyze movie data we gathered on the web to present to Mic
 
 ## Analysis and Recommendations
 
-### Budget Analysis
+### Budget and Value Analysis
 **TBDTBDTBDTBDTBD**
 **TBDTBDTBDTBDTBD**
 
@@ -64,7 +64,7 @@ From both graphs, it is interesting to note that longer movies tend to do better
 
 Our recommendation to Microsoft is to make a long movie for any adult genre. If Microsoft wishes to make a G rated movie, then we recommend shortening the runtime.
 
-### Day of the Week Analysis
+### Week and Month Analysis
 **TBDTBDTBDTBDTBD**
 **TBDTBDTBDTBDTBD**
 
@@ -78,6 +78,11 @@ As far as recommendations to Microsoft, this data should be taken with a grain o
 
 
 ## Conclusion
+
+From our analysis, we have come to three final recommendations for Microsoft. We believe our other recommendations should still be considered and noted, but the following should be weighed more heavily:
+1. **50 MILLION BUDFGET...TBD**
+1. Microsoft should create a long movie if they are targeting an adult audience, and a shorter movie if they are targeting a child audience. From our data, this long insinuates a movies of at least 109 minutes, and short insinuates a movie no longer than 96 minutes.
+1. **DAY OF WEEK/MONTH TO RELEASE...TBD**
 
 ## Disclaimers
 Because this is a public directory, we would like to note that we **are not** working with Microsoft in any capacity about movies. To the best of our knowledge, Microsoft **has no plans to make a movie**
