@@ -18,10 +18,13 @@ For this project, we analyze movie data we gathered on the web to present to Mic
 * Gets 50 popular tweets for every movie
 * Stores data in jsons and creats a list of dataframes to then aggregate the data into a final csv
 #### Reddit_API_Calls_and_Webscrape.ipynb
- * Collects urls from Reddit using API calls
- * Collects Data from urls using Selenium Library
- * Cleans and organizes Data in prepration to be exported to a final csv
- * Stores clean dataset in a final csv file
+* Collects urls from Reddit using API calls
+* Collects Data from urls using Selenium Library
+* Cleans and organizes Data in prepration to be exported to a final csv
+* Stores clean dataset in a final csv file
+#### Watch_Mojo_dataset_merged_with_TMDB_dataset.ipynb
+* Short notebook, simply merges our TMDB and Mojo datasets into one large dataframe
+* Exports as csv
 #### Mojo_and_Twitter_Analysis.ipynb
 * Explores data gathered from boxofficemojo and twitter
 * Asks questions and uses the data to formulate answers and inferences
