@@ -17,24 +17,34 @@ For this project, we analyze movie data we gathered on the web to present to Mic
 * Gets 50 popular tweets for every movie
 * Stores data in jsons and creats a list of dataframes to then aggregate the data into a final csv
 #### Reddit_API_Calls_and_Webscrape.ipynb
- * **TBD**
+ * Collects urls from Reddit using API calls
+ * Collects Data from urls using Selenium Library
+ * Cleans and organizes Data in prepration to be exported to a final csv
+ * Stores clean dataset in a final csv file
 #### Mojo_and_Twitter_Analysis.ipynb
 * Explores data gathered from boxofficemojo and twitter
 * Asks questions and uses the data to formulate answers and inferences
 * Creates and saves images created from data visualizations
 #### TMDB_Watch_Mojo_db_Analysis.ipynb
-* **TBD**
-* **TBD**
+* Explores data using the TMDB and Watch Mojo Datasets
+* Asks the Question "how does day of the week influences opening weekend sales?"
+* Creates visulazations and computes metrics to determine the best day to release a movie
+#### Mojo_TMDB_Monthly_Analysis
+* Explores data using the TMDB and WatchMojo datasets
+* Asks the Question "does the time of year matter?", specifically the month of the year.
+* Creates visualizations and computes metrics to determine which month or range of months will bring the most box office success
 #### Reddit_Data_Anaylsis.ipynb
-* **TBD**
-* **TBD**
-
+* Explores the Reddit dataset that we obtained through webscraping 
+* Explores the relationship between budget and box office sales 
+* Through data visualizations and computing metrics, insights about the ideal budget are shown.
 
 
 ## Analysis and Recommendations
 
 ### Budget and Value Analysis
-**TBDTBDTBDTBDTBD**
+![Image](Screenshots/Values for the 10 Highest Budgeted Movies.png)
+
+![Image](Screenshots/Values for the 10 Lowest Budgeted Movies.png)
 **TBDTBDTBDTBDTBD**
 
 
