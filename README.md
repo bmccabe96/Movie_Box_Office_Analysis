@@ -24,12 +24,20 @@ For this project, we analyze movie data we gathered on the web to present to Mic
 * Creates and saves images created from data visualizations
 #### TMDB_Watch_Mojo_db_Analysis.ipynb
 * **TBD**
+* **TBD**
 #### Reddit_Data_Anaylsis.ipynb
+* **TBD**
 * **TBD**
 
 
 
 ## Analysis and Recommendations
+
+### Budget Analysis
+**TBDTBDTBDTBDTBD**
+**TBDTBDTBDTBDTBD**
+
+
 ### Revenues and Theaters Correlation
 
 ![Image](Screenshots/Gross_Theaters_Heatmap.png?raw=true)
@@ -55,6 +63,10 @@ The results above can be analyzed to help determine the length of the movie and 
 From both graphs, it is interesting to note that longer movies tend to do better both in terms of popularity and revenue when the movie is targeted at a more adult audience (PG13, PG, R). Howecver, for G rated movies, medium/shorter movies tend to do better. This could be due to the fact that many children that watch G rated movies likely have shorter attention spans than the average adult.
 
 Our recommendation to Microsoft is to make a long movie for any adult genre. If Microsoft wishes to make a G rated movie, then we recommend shortening the runtime.
+
+### Day of the Week Analysis
+**TBDTBDTBDTBDTBD**
+**TBDTBDTBDTBDTBD**
 
 ### Twitter Data Analysis
 
