@@ -42,9 +42,9 @@ For this project, we analyze movie data we gathered on the web to present to Mic
 ## Analysis and Recommendations
 
 ### Budget and Value Analysis
-![Image](Screenshots/Values for the 10 Highest Budgeted Movies.png)
+![Image](Screenshots/Values for the 10 Highest Budgeted Movies.png?raw=true)
 
-![Image](Screenshots/Values for the 10 Lowest Budgeted Movies.png)
+![Image](Screenshots/Values for the 10 Lowest Budgeted Movies.png?raw=true)
 **TBDTBDTBDTBDTBD**
 
 
