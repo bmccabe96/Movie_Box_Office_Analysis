@@ -2,7 +2,7 @@
 For this project, we analyze movie data we gathered on the web to present to Microsoft with recommendations on certain metrics regarding the movie they intend to make.
 
 ## Table of Contents
-1. Codes
+1. Codes [Link to Header](#codes)
 1. Analysis and Recommendations
 1. Conclusion
 1. Future Analysis
