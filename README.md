@@ -110,8 +110,8 @@ Due to the holiday season, this is expected.
 However, These graphs show that Febraury and November also do very well.
 Since November is right before december, this is not too surprising.
 However, February was a surprise.
-Thus, our we suggestestion to Microsoft would be to release a movie in Febraury where they will have the least competition from big blockbuster films.
-The numbers aren't strong enough to merit a recommendation But we believe february should certainly be  considered.
+Thus, our suggestestion to Microsoft would be to release a movie in Febraury where they will have the least competition from big blockbuster films.
+The numbers aren't strong enough to merit a recommendation, but we believe february should certainly be  considered.
 ### Twitter Data Analysis
 
 ![Image](Screenshots/Twitter_Genre_Averages.png?raw=true)
