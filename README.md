@@ -114,7 +114,7 @@ Thus, our we suggestestion to Microsoft would be to release a movie in Febraury 
 The numbers aren't strong enough to merit a recommendation But we believe february should certainly be  considered.
 ### Twitter Data Analysis
 
-![Image](Screenshots/Twitter_Genre.png?raw=true)
+![Image](Screenshots/Twitter_Genre_Averages.png?raw=true)
 
 After compiling a list of likes, retweets, and replies for top tweets for every movie, we then wanted to see how the numbers responded to grouping by movie category. From the data above, it appears that musicals get quite a lot of social media presence. This could be for a variety of reasons. (1) While musicals are not as common as action/adventure, when they are released, they are often released based on a world-famous broadway show such as Les Mis or on a world famous musician (Elton John - Rocketman), so they could amass quite a large following on social media. (2) People often times create cover-songs or even musical-parodies based off famous songs. Twitter would be a place for people to share these videos, and if one of them goes viral (either it is a very funny spoof or a really impressive work of musician-ship), it would amass a lot of likes/retweets/replies.
 
