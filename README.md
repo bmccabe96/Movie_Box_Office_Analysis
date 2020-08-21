@@ -126,7 +126,7 @@ As far as recommendations to Microsoft, this data should be taken with a grain o
 ## Conclusion
 
 From our analysis, we have come to three final recommendations for Microsoft. We believe our other recommendations should still be considered and noted, but the following should be weighed more heavily:
-1. Microsoft should create a budget of $50 million for this film. We believe that any budget between $20-50 million should be capable of maximizing a movie's Value.However, the $50 million number is the sweet spot in that range since profits goes up linearly with budget. This allows microsoft to maximize Value and Profit as much as possible.
+1. Microsoft should create a budget of $50 million for this film. We believe that any budget between $20-50 million should be capable of maximizing a movie's Value.However, the $50 million number is the sweet spot in that range since revenue goes up linearly with budget. This allows microsoft to maximize Value and Profit as much as possible.
 1. Microsoft should create a long movie if they are targeting an adult audience, and a shorter movie if they are targeting a child audience. From our data, this long insinuates a movies of at least 109 minutes, and short insinuates a movie no longer than 96 minutes.
 1. Microsoft should release the movie on a Wednesday. By releasing on wednesday, they can generate a lot of profit from the "5-day Weekend effect" and also will have a lot less competition. 
 
