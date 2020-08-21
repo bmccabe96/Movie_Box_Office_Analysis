@@ -31,7 +31,7 @@ For this project, we analyze movie data we gathered on the web to present to Mic
 * Creates and saves images created from data visualizations
 #### TMDB_Watch_Mojo_db_Analysis.ipynb
 * Explores data using the TMDB and Watch Mojo Datasets
-* Asks the Question "how does day of the week influences opening weekend sales?"
+* Asks the Question "how does the day of the week influences opening weekend sales?"
 * Creates visulazations and computes metrics to determine the best day to release a movie
 #### Mojo_TMDB_Monthly_Analysis
 * Explores data using the TMDB and WatchMojo datasets
@@ -51,7 +51,7 @@ For this project, we analyze movie data we gathered on the web to present to Mic
 ![Image](Screenshots/Values%20for%20the%2010%20Lowest%20Budgeted%20Movies.png?raw=true)
 
 Value,in this context,is a ratio of Worldwide Box Office Sales to a Movie's budget. So we are essentially measuring how much money did a movie generate
-vs how much did it cost to produce. The plots themselves are very telling in this case. As for the 10 most expensive movies, Only two movies actually had a value north of 5 (highest was 7). While in the case of the 10 least expensive movies, 4 movies had a value of 9 or greater (3 of those were greter than 10).
+vs how much did it cost to produce. The plots themselves are very telling in this case. As for the 10 most expensive movies, Only two movies actually had a value north of 5 (highest was 7). While in the case of the 10 least expensive movies, 4 movies had a value of 9 or greater (3 of those were greater than 10).
 Also, from a metrics standpoint. The median Value for the least 10 expensive movies was 2.9 while for the 10 Most Expensive it was only 1.7.
 Clearly,if you just want to maximize profits, having a super high budget is not the best way to do so.
 
@@ -59,10 +59,10 @@ Clearly,if you just want to maximize profits, having a super high budget is not 
 
 As you can see in the graph,There is a strong linear relationship between Budget and worldwide sales. So you can expect about $3.5 in worldwide revenue for 
 every dollar spent on budget. 
-Thus,our advice to Microsoft is to maximize profit and select a budget of around 50 million.(average budget of lowest 10 expensive films)
-Microsoft should follow our advice because almost all of the movies from the least expensive list have a budget between 20-50 million.
+Thus,our advice to Microsoft is to maximize profit and select a budget of around 50 million.(average budget of 10 most valuable films)
+Microsoft should follow our advice because almost all of the movies from the most valuable list have a budget between 20-50 million.
 This way Microsoft will be able to maximize their value and also maximizing profit. (since worldwide sales increases linearly with budget). 
-Our estimation says they would generate $175 million in gross revenue, thus a net revenue of $125 million. Not too shabby. 
+Our estimation says they would generate $175 million in gross worldwide revenue, thus a net profit of $125 million. Not too shabby. 
 
 
 ### Revenues and Theaters Correlation
@@ -94,10 +94,10 @@ Our recommendation to Microsoft is to make a long movie for any adult genre. If 
 ### Week and Month Analysis
 **Week Analysis**
 ![Image](Screenshots/Day%20of%20the%20Week%20vs%20Opening%20Weekend%20Sales.png?raw=true)
-The reason why this graph is looking at day of the week vs opening weekend sales is because opening weekend sales is very impotant to a movies success.
-In fact, on average 28% of a movies revenue comes from opening day weekend.
+This graph is looking at day of the week vs opening weekend sales because opening weekend sales is very important to a movie's success.
+In fact, on average 28% of a Movie's revenue comes from opening day weekend.
 As you can see, Friday is the best day to maximize opening weekend sales. 
-However, our recommendation to microsoft would be to pick a Wednesday for a release date. There are two main reasons as to why.
+However, our recommendation to Microsoft would be to pick a Wednesday for a release date. There are two main reasons as to why.
 One, Wednesday had the second best numbers out of all of the days of the week and only 8% of new releases in our dataset were released on a Wednesday.
 Compared to Friday, which contains 81% of the movies in our dataset.
 That is a lot less competition.
@@ -110,8 +110,8 @@ Due to the holiday season, this is expected.
 However, These graphs show that Febraury and November also do very well.
 Since November is right before december, this is not too surprising.
 However, February was a surprise.
-Thus, our recommendation to microsoft would be to release a movie in Febraury where they will have the least competition from big blockbuster films.
-But February will still a chance to make a lot of revenue.
+Thus, our we suggestestion to Microsoft would be to release a movie in Febraury where they will have the least competition from big blockbuster films.
+The numbers aren't strong enough to merit a recommendation But we believe february should certainly be  considered.
 ### Twitter Data Analysis
 
 ![Image](Screenshots/Twitter_Genre.png?raw=true)
@@ -126,7 +126,7 @@ As far as recommendations to Microsoft, this data should be taken with a grain o
 From our analysis, we have come to three final recommendations for Microsoft. We believe our other recommendations should still be considered and noted, but the following should be weighed more heavily:
 1. Microsoft should create a budget of $50 million for this film. We believe that any budget between $20-50 million should be capable of maximizing a movie's Value.However, the $50 million number is the sweet spot in that range since profits goes up linearly with budget. This allows microsoft to maximize Value and Profit as much as possible.
 1. Microsoft should create a long movie if they are targeting an adult audience, and a shorter movie if they are targeting a child audience. From our data, this long insinuates a movies of at least 109 minutes, and short insinuates a movie no longer than 96 minutes.
-1. Microsoft should release the movie on a Wednesday in Febraury. By releasing on wednesday, they can generate a lot of profit from the "5-day Weekend effect" and also will have a lot less competition. Also, by releasing in February they can reduce their amount of competition even more while still being a "hot" month for movie sales.
+1. Microsoft should release the movie on a Wednesday. By releasing on wednesday, they can generate a lot of profit from the "5-day Weekend effect" and also will have a lot less competition. 
 
 ## Future Analysis
 1. One area we would like to explore data from online streaming services such as Netflix,Amazon Prime Video,HBO,hulu, and etc... We would be particularly interested in viewer data such as number of downloads/purchases of movies as well as view counts.
