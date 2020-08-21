@@ -60,7 +60,7 @@ Clearly,if you just want to maximize profits, having a super high budget is not 
 As you can see in the graph,There is a strong linear relationship between Budget and worldwide sales. So you can expect about $3.5 in worldwide revenue for 
 every dollar spent on budget. 
 Thus,our advice to Microsoft is to maximize profit and select a budget of around 50 million.(average budget of 10 most valuable films)
-Microsoft should follow our advice because almost all of the movies from the least expensive list have a budget between 20-50 million.
+Microsoft should follow our advice because almost all of the movies from the most valuable list have a budget between 20-50 million.
 This way Microsoft will be able to maximize their value and also maximizing profit. (since worldwide sales increases linearly with budget). 
 Our estimation says they would generate $175 million in gross worldwide revenue, thus a net profit of $125 million. Not too shabby. 
 
