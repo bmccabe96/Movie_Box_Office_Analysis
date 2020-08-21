@@ -94,7 +94,7 @@ Our recommendation to Microsoft is to make a long movie for any adult genre. If 
 ### Week and Month Analysis
 **Week Analysis**
 ![Image](Screenshots/Day%20of%20the%20Week%20vs%20Opening%20Weekend%20Sales.png?raw=true)
-The reason why this graph is looking at day of the week vs opening weekend sales is because opening weekend sales is very impotant to a movies success.
+This graph is looking at day of the week vs opening weekend sales because opening weekend sales is very important to a movie's success.
 In fact, on average 28% of a Movie's revenue comes from opening day weekend.
 As you can see, Friday is the best day to maximize opening weekend sales. 
 However, our recommendation to Microsoft would be to pick a Wednesday for a release date. There are two main reasons as to why.
